@@ -1,0 +1,34 @@
+{
+  "translation": {
+    "titres":{
+      "homeH1":"Newest recipes",
+      "favoritesH1":"My Favorites",
+      "searchH1":"Search Results",
+      "addRecipeH1":"Add Recipe"
+    },
+    "menu": {
+      "accueil":"Home",
+      "recettes":"Recipes",
+      "favoris":"My Favorites",
+      "ajouterRecette":"Add Recipe"
+    },
+    "searchForm":{
+      "placeholder":"Search recipes and more...",
+      "button":"Search"
+    },
+    "difficulty": [
+      {
+        "value": 1,
+        "text": "Easy"
+      },
+      {
+        "value": 2,
+        "text": "Medium"
+      },
+      {
+        "value": 3,
+        "text": "Difficult"
+      }
+    ]
+  }
+}

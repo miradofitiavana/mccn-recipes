@@ -1,0 +1,34 @@
+{
+  "translation": {
+    "titres":{
+      "homeH1":"Les recettes les plus récentes",
+      "favoritesH1":"Mes Favoris",
+       "searchH1":"Resultats de la recherche",
+       "addRecipeH1":"Ajouter une recette"
+    },
+    "menu": {
+      "accueil":"Accueil",
+      "recettes":"Recettes",
+      "favoris":"Mes Favoris",
+      "ajouterRecette":"Ajouter une recette"
+    },
+    "searchForm":{
+      "placeholder":"Rechercher une recette ou autre...",
+      "button":"Rechercher"
+    },
+    "difficulty": [
+      {
+        "value": 1,
+        "text": "Facile"
+      },
+      {
+        "value": 2,
+        "text": "Moyen"
+      },
+      {
+        "value": 3,
+        "text": "Difficily"
+      }
+    ]
+  }
+}
