@@ -11,5 +11,8 @@
     // "eslint.autoFixOnSave": true,
     "editor.codeActionsOnSave": {
       "source.fixAll.eslint": true
-    }
+    },
+    "eslint.workingDirectories": [
+      "./{PATH_TO_CLIENT}"
+    ]
   }
